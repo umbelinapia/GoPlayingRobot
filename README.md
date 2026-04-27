@@ -10,10 +10,10 @@ This report aims to build an autonomous robot that can master the ancient game o
 4. Develop and implement an interactive graphical user interface that converts user input into structured commands, transmitted to the motion controller under a second for execution in real-time.
 
 ## Project Navigation
-1\. Clone the repository
-2\. Navigate to the python scipts Inside the software folder
-3\. Install dependencies listed in requirements.txt
-4\. Run the main code for the interface
+1. Clone the repository
+2. Navigate to the python scipts Inside the software folder
+3. Install dependencies listed in requirements.txt
+4. Run the main code for the interface
 
 ## Motion controller
 Upload `software/Arduino sketch/routines.ino` to your Arduino board using the Arduino IDE.
