@@ -21,5 +21,5 @@ Upload `software/Arduino sketch/routines.ino` to your Arduino board using the Ar
 NOTE
 Arduino Cloud sketches can also be found here:
 
-🔗 \[Arduino Cloud Sketch](https://app.arduino.cc/sketches/9923f9a1-adf1-4cbb-a925-ab8f35f5f6f3?view-mode=preview)
+🔗 \https://app.arduino.cc/sketches/9923f9a1-adf1-4cbb-a925-ab8f35f5f6f3?view-mode=preview
 
