@@ -9,7 +9,7 @@ This report aims to build an autonomous robot that can master the ancient game o
 3. Implement inverse kinematics to convert board coordinates into joint angles, enabling the end-effector to reach target positions within a positional accuracy of approximately 2 mm.
 4. Develop and implement an interactive graphical user interface that converts user input into structured commands, transmitted to the motion controller under a second for execution in real-time.
 
-## Project Navigation
+## Board Interface
 1. Clone the repository
 2. Navigate to the python scipts Inside the software folder
 3. Install dependencies listed in requirements.txt
@@ -21,5 +21,5 @@ Upload `software/Arduino sketch/routines.ino` to your Arduino board using the Ar
 NOTE
 Arduino Cloud sketches can also be found here:
 
-🔗 \https://app.arduino.cc/sketches/9923f9a1-adf1-4cbb-a925-ab8f35f5f6f3?view-mode=preview
+🔗 https://app.arduino.cc/sketches/9923f9a1-adf1-4cbb-a925-ab8f35f5f6f3?view-mode=preview
 
